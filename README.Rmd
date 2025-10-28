@@ -27,7 +27,7 @@ You can install the development version of mipaq from
 
 ``` r
 #install.packages("devtools")
-devtools::install.github("natalylodeiro/mipaq")
+devtools::install_github("natalylodeiro/mipaq")
 ```
 
 ## Example
